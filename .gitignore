@@ -4,3 +4,4 @@ flower_photos.tar.gz
 __pycache__
 *.pyc
 .ipynb_checkpoints/
+tensorflow_vgg_old/
